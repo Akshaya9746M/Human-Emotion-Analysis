@@ -123,6 +123,14 @@ Through this project, I gained practical experience in:
 - Model evaluation and comparison.
 - Building interactive applications using Streamlit.
 
+## 🚀 Clone Repository
+
+To clone this repository, run the following command:
+
+```bash
+git clone https://github.com/Akshaya9746M/fraud-detection-analysis.git
+
+
 ## 🚀 Conclusion
 
 This project provided practical exposure to combining Natural Language Processing with Machine Learning to solve a text classification problem.
